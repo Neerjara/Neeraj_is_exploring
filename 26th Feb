@@ -1,5 +1,5 @@
 https://chatgpt.com/canvas/shared/67be10b42f3481919527e627dbec6fd0
-
+https://www.systeminit.com/ platform to cnnect aws cli for simulation
 # Discussion on DevOps Webinar & CI/CD Automation
 
 📌 Webinar: The Future of DevOps Automation: Beyond Traditional Practices
@@ -115,12 +115,8 @@ echo "All checks passed! Safe to push."
 git push origin my-branch
 
 📌 Conclusion: Balancing Automation & Efficiency
-
 Digital twins can be useful, but only for complex testing needs.
-
 Lightweight pre-check tests in Jenkins provide immediate value.
-
 Automating chroot testing might be overkill unless failures become frequent.
-
 Cultural shift needed to adopt AI-driven automation & digital models.
 
